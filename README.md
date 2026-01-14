@@ -16,8 +16,8 @@ You can check the live application here:
 - Designed for use in a college event
 
 
-  <img src="./assest/Screenshot 2026-01-14 152504.png">
-  <img src="./assest/Screenshot 2026-01-14 152528.png">
+  <img src="./assests/Screenshot 2026-01-14 152504.png">
+  <img src="./assests/Screenshot 2026-01-14 152528.png">
   
 
 ## How to Use
